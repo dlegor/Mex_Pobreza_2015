@@ -5,8 +5,6 @@
 ######Programa para estimación de pobreza multidimensional#####      		
 #Metodología Oficial del CONEVAL#
 
-##(Versión Julio 2016 para discusión, no citar ni difundir)##
-
 ###################################################################
 #Se cargan datos desde las bases de Stata en formato ".dta" y se 
 #procesan en R project.
